@@ -39,7 +39,7 @@ Bonus!
 
 - Ask the user what word they want to test
 - Make sure it accept upper and lower case
-- Return "Enter a valid word" if the iput include something other than letter such as "He#llo"
+- Return "Enter a valid word" if the input include something other than letters such as "He#llo"
 
 ## Double Check
 http://www.dvorkin.com/scrabscor.php
