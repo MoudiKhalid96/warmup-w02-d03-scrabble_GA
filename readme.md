@@ -1,5 +1,6 @@
 # Scrabble
-
+<small style="color: gray">This was warmup work from <span title="General Assembly">GA</span></small>
+<br><br>
 Write a program that will replicate the scoring system in Scrabble. The function should take a single argument (the word, comprised of letters/tiles) and return a score. 
 
 ## Letter Values
